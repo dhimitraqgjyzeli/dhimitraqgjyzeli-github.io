@@ -1,0 +1,15 @@
+.bg-custom{
+	background: grey;
+}
+.navbar-light .navbar-nav .active > .nav-link{
+    color: red;
+}
+.navbar-light .navbar-nav .nav-link {
+	color:#fff;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+	color: red;
+}
+.navbar-light .navbar-brand {
+    font-weight:bold; 
+}

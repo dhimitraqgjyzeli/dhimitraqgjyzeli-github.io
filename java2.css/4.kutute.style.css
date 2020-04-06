@@ -1,0 +1,26 @@
+body{
+	font-family: Arial,Verdana,sans-serif;
+}
+.permbajtja{
+	width:300px;
+	height:200px;
+	border:1px solid black;
+	padding: 10px;
+	margin-bottom:10px;
+	display:inline-block;
+}
+.permbajtja1{
+	width:300px;
+	height:200px;
+	border:1px solid black;
+	padding: 10px;
+	display:inline-block;
+	
+}
+li{
+	display:inline-block;
+	margin-right: 20px;
+}
+.under_construction{
+	display:none;
+}

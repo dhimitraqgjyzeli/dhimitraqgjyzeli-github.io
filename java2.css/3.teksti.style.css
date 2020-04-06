@@ -1,0 +1,17 @@
+body{
+	font-family: Arial,Verdana,sans-serif;
+}
+h1{
+	font-size: 2em;
+}
+p{
+	font-weight: bold;
+	font-style:italic;
+	text-transform: capitalize;
+	text-decoration: line-through;
+	line-height: 1.4em
+	text-align:justify;
+}
+a:hover{
+	color: red;
+}

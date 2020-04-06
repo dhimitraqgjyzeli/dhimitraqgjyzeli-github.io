@@ -1,0 +1,11 @@
+body{
+	font-family: Arial,Verdana,sans-serif;
+}
+.ordered_list{
+	list-style-type: none;
+}
+.unordered_list{
+	list-style-type: square;
+	list-style-position: inside;
+
+}
